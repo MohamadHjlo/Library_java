@@ -163,7 +163,7 @@ public class MyLib implements ILibrary {
 
             switch (option) {
                 case 1:
-                    System.out.println("Enter search type \n1:ISBN, \n2: \nName, \n3:Author, \n4: Abstract ");
+                    System.out.println("Enter search type \n1:ISBN, \n2:Name, \n3:Author, \n4: Abstract ");
                     int searchType = scanner.nextInt();
 
                     scanner.nextLine();
