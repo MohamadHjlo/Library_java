@@ -1,0 +1,24 @@
+Book Changed with This Status at : 2024-01-06 22:10:40
+[{Status=false, ISBN=123, AgeGroup=AgeGroup1, Abstract=BookAbstract1, Author=BookAuthor1, Name=BookName1}]
+Book Changed with This Status at : 2024-01-06 22:10:52
+[{Status=false, ISBN=246, AgeGroup=AgeGroup2, Abstract=BookAbstract2, Author=BookAuthor2, Name=BookName2}]
+
+Book Changed with This Status at : 2024-01-06 22:19:08
+[{Status=false, ISBN=246, AgeGroup=AgeGroup2, Abstract=BookAbstract2, Author=BookAuthor2, Name=BookName2}]
+With this User: DomainClasses.Entites.User.User@3dd3bcd
+With this ResCount: 1
+
+Book Changed with This Status at : 2024-01-06 22:22:05
+[{Status=false, ISBN=246, AgeGroup=AgeGroup2, Abstract=BookAbstract2, Author=BookAuthor2, Name=BookName2}]
+With this User: class DomainClasses.Entites.User.User64830413
+With this ResCount: 1
+
+Book Changed with This Status at : 2024-01-06 22:24:33
+[{Status=false, ISBN=123, AgeGroup=AgeGroup1, Abstract=BookAbstract1, Author=BookAuthor1, Name=BookName1}]
+With this User: [DomainClasses.Entites.User.User@3dd3bcd]
+With this ResCount: 1
+
+Book Changed with This Status at : 2024-01-06 22:26:58
+[{Status=false, ISBN=246, AgeGroup=AgeGroup2, Abstract=BookAbstract2, Author=BookAuthor2, Name=BookName2}]
+With this User: {Id :5Username :User4Age :19Reserved :246RegTime :2024-01-06T22:26:30.301}
+With this ResCount: 1
